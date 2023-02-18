@@ -1,0 +1,13 @@
+uvicorn
+nltk
+mangum
+pandas
+docx2txt
+textract
+wordcloud
+matplotlib
+docx
+numpy
+fastapi
+transformers
+sentence_transformers
